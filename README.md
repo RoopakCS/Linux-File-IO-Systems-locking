@@ -87,6 +87,7 @@ int main (int argc, char* argv[]) {
 
 ![image](https://github.com/RoopakCS/Linux-File-IO-Systems-locking/assets/139228922/99fefc57-8ac2-46df-acb0-999c57c51418)
 
+![image](https://github.com/RoopakCS/Linux-File-IO-Systems-locking/assets/139228922/0f014bb5-a960-44f0-ac16-e5017299d65f)
 
 
 
