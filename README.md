@@ -1,5 +1,8 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+
+# Name: Roopak C S
+# Register Number: 212223220088
 # AIM:
 To Write a C program that illustrates files copying and locking
 
